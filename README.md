@@ -3,6 +3,8 @@
 My dotfiles when using Unix systems.
 
 # Structure
+
+```
 .
 ├── README.md
 ├── bin
@@ -19,3 +21,4 @@ My dotfiles when using Unix systems.
         └── scope.sh
 
 4 directories, 9 files
+```
