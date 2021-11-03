@@ -6,6 +6,15 @@ My dotfiles when using Unix systems.
 
 ```
 .
+├── .Xmodmap
+├── .Xresources
+├── .bashrc
+├── .screenrc
+├── .tmux.conf
+├── .vimrc
+├── .xinitrc
+├── .zprofile
+├── .zshrc
 ├── README.md
 ├── bin
 │   ├── battery.sh
@@ -13,12 +22,11 @@ My dotfiles when using Unix systems.
 │   ├── date.sh
 │   ├── external.sh
 │   └── volume.sh
-└── config
-    ├── alacritty
-    │   └── alacritty.yml
-    └── ranger
-        ├── rc.conf
-        └── scope.sh
+├── config
+│   ├── alacritty
+│   └── ranger
+├── install.sh
+└── log
 
-4 directories, 9 files
+11 directories, 23 files
 ```
